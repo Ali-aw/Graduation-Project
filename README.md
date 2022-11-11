@@ -3,7 +3,7 @@
 
 
 # Introduction
-Since inappropriate planning of the cities, there has been a big problem of traffic in most cities of Lebanon. People spend much of their time in traffic every day. In Addition to this many vehicles in traf ic makes rapid oil consumption, there has been an uprising problem of air pollution. Oil supplies are very limited all over the world and oil prices are extremely expensive in our country. Therefore, most of the people have to take buses and since the number of public transportation vehicles are not suficient, they travel under uncomfortable conditions.
+Since inappropriate planning of the cities, there has been a big problem of traffic in most cities of Lebanon. People spend much of their time in traffic every day. In Addition to this many vehicles in traffic makes rapid oil consumption, there has been an uprising problem of air pollution. Oil supplies are very limited all over the world and oil prices are extremely expensive in our country. Therefore, most of the people have to take buses and since the number of public transportation vehicles are not suficient, they travel under uncomfortable conditions.
 
 There are some attempts to solve these problems, however, they focus only on intercity transportation. We came up with an ef ective solution as www.uniteonwheels.com .Our project will be used for both intercity and urban transportations all over India. As a result, our system will be designed to solve these problems and deficiencies of other systems .
 
