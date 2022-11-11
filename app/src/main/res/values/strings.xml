@@ -1,0 +1,79 @@
+<resources>
+    <string name="api_key">AIzaSyAt8yn1noy7WnMdhpAZtr7hC1c-NodsGig</string>
+    <string name="app_name">CAR-SHARE</string>
+    <string name="title_activity_driver_maps">DriverMapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_customer_map">CustomerMapActivity</string>
+    <string name="title_activity_rrr">rrr</string>
+    <string name="title_activity_lmaplgdede">lmaplgdede</string>
+    <string name="all_fields_are_mandatory">All Fields are Mandatory</string>
+    <string name="login">Login</string>
+    <string name="female">Female</string>
+    <string name="male">male</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_an_account">Don\'t have an account</string>
+    <string name="mobile_number_this_will_be_verified">Mobile Number(this will be verified)</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="i_don_t_have_account">i don\'t have account</string>
+    <string name="Email">email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="customer_status">customer status</string>
+    <string name="google_maps_key">AIzaSyAt8yn1noy7WnMdhpAZtr7hC1c-NodsGig</string>
+    <string name="source_name">Source name</string>
+    <string name="destname">DestName</string>
+    <string name="show_track">Show Track</string>
+    <string name="source">Source</string>
+    <string name="destination">destination</string>
+    <string name="district">District</string>
+    <string name="governorate">Governorate</string>
+    <string name="name">source name</string>
+    <string name="dest_governorate">dest_Governorate</string>
+    <string name="dest_district">dest_District</string>
+    <string name="dest_name">dest_name</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_main_fragment">Leanback MainFragment</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+    <string-array name="l1">
+        <item>@string/login</item>
+        <item>@string/login</item>
+        <item>@string/login</item>
+
+    </string-array>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="source_gover">Source:</string>
+    <string name="src_destination">destination</string>
+    <string name="save">save</string>
+    <string name="search">Search</string>
+    <string name="button">Button</string>
+    <string name="Destination" />
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ImageProfile">
+
+    <TextView
+        android:id="@+id/textView_profile"
+        android:layout_width="330dp"
+        android:layout_height="181dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="412dp"
+        android:fontFamily="sans-serif-medium"
+        android:fontWeight="1000"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/profile_image2"
+        android:layout_width="388dp"
+        android:layout_height="313dp"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/gradient_one"
+        android:backgroundTint="@color/purple_500"
+        android:contentDescription="@string/Email"
+        android:cropToPadding="false"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.304"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/defaulte"
+        tools:ignore="ImageContrastCheck" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="367dp"
+        android:layout_height="54dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="60dp"
+        android:onClick="Okk"
+        android:text="OK"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="OnClick" />
+</androidx.constraintlayout.widget.ConstraintLayout>

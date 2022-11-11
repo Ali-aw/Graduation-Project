@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#FFFFFF"
+   >
+
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="356dp"
+        android:layout_height="145dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="116dp"
+        android:background="@drawable/custom_button1"
+        android:onClick="NavigateToDriverLogin"
+        app:srcCompat="@drawable/img" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="356dp"
+        android:layout_height="145dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="418dp"
+        android:background="@drawable/custom_button2"
+        android:onClick="NavigateToRiderLogin"
+        app:srcCompat="@drawable/img" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="210dp"
+        android:layout_height="29dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="114dp"
+        android:layout_marginTop="265dp"
+        android:text="I am a Driver" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="210dp"
+        android:layout_height="29dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="101dp"
+        android:layout_marginTop="566dp"
+        android:text="I am a Rider" />
+
+
+
+</RelativeLayout>
