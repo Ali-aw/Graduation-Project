@@ -50,7 +50,7 @@ The app uses  Google Maps API
 
 Geocoding API (provides geocoding and reverse geocoding of addresses)
 Places API (returns information about places using HTTP requests)
-Directions API (returns JSON or XML-formatted directions between locations)
+
 
 Your android app is connected to Firebase project "senior1".
 That's all!
