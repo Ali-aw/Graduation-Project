@@ -45,17 +45,17 @@ Car-Share is android based application for car sharing .
 Main functions that app includes are -
 The app uses  Google Maps API
 
-Geocoding API (provides geocoding and reverse geocoding of addresses)<br\>
-Places API (returns information about places using HTTP requests)<br\>
-All the goernorates,disticts,an regions in Lebanon are saved in firebase an displayed smartly in spinners then viewed  threw a list<br\>
-user can upload his favorate profile, the profile of the current user is store in storage...<br\>
-Google signin...
-slider displayed once the app is installed for the first time only<br\>
+Geocoding API (provides geocoding and reverse geocoding of addresses)<br/>
+Places API (returns information about places using HTTP requests)<br/>
+All the goernorates,disticts,an regions in Lebanon are saved in firebase an displayed smartly in spinners then viewed  threw a list<br/>
+user can upload his favorate profile, the profile of the current user is store in storage...<br/>
+Google signin...<br/>
+slider displayed once the app is installed for the first time only<br/>
 
 
 
-Your android app is connected to Firebase project "senior1".<br\>
-That's all!<br\>
-Keep Going!!!<br\>
-Feel free to ask your doubts and contribute to this project.<br\>
-Do ⭐ the repo if you like the work!🙌<br\>
+Your android app is connected to Firebase project "senior1".<br/>
+That's all!<br/>
+Keep Going!!!<br/>
+Feel free to ask your doubts and contribute to this project.<br/>
+Do ⭐ the repo if you like the work!🙌<br/>
